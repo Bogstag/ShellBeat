@@ -14,7 +14,7 @@ Welcome to ShellBeat, where PowerShell modules dance to a different beat! This r
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/ShellBeat.git
+   git clone https://github.com/Bogstag/ShellBeat.git
    ```
    
 2. Navigate to the `ShellBeat` directory.
