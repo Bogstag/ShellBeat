@@ -1,7 +1,3 @@
-### README.md for ShellBeat
-
----
-
 # ShellBeat 🐚🎵
 
 > "Hear the sound of the ShellBeat!"
