@@ -1,5 +1,3 @@
-Of course! A README file is the first thing people see when they visit your GitHub repository, so let's make it engaging and informative.
-
 ### README.md for ShellBeat
 
 ---
