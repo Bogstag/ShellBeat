@@ -1,0 +1,20 @@
+# Ignore settings files
+.vscode/
+.idea/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore package files
+*.nupkg
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.log
+*.bak
+
+# Ignore user-specific files
+*.suo
+*.user
